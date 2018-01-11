@@ -1,0 +1,12 @@
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\Accord.dll.config
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\Accord.Math.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\Accord.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\Accord.Math.xml
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityPackageTest\bin\Debug\Accord.xml

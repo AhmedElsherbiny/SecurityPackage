@@ -1,0 +1,17 @@
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.dll.config
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.MachineLearning.GPL.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.Math.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.Statistics.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.MachineLearning.dll
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.xml
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.MachineLearning.GPL.xml
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.Math.xml
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.Statistics.xml
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.MachineLearning.pdb
+E:\semesters\FourthYear\SecondTerm\Computer Security\SecurityPackage\projecttemplate\SecurityLibrary\bin\Debug\Accord.MachineLearning.xml
